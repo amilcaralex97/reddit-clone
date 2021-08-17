@@ -1,0 +1,9 @@
+{
+  "dbConfig": {
+    "dbName": "reddit-clone-test",
+    "user": "postgres",
+    "password": "Am011!Sa",
+    "debug": true,
+    "type": "postgresql"
+  }
+}
